@@ -6,17 +6,17 @@ title: "Frequently Asked Questions"
 
 # Frequently Asked Questions
 
-=== "BSC"
+## BSC
 
-    - [BSC node fails to boot with PBSS snapshot](./bsc-node-fails-to-boot-with-pbss-snapshot.md)
-    - [What is the BNB Chain ecosystem?](./what-is-the-bnb-chain-ecosystem.md)
-    - [reth-bsc db migrate-v2 fails with --datadir](./reth-bsc-db-migrate-v2-fails-with-datadir.md)
-    - [How do I claim BNB staking rewards?](./how-do-i-claim-bnb-staking-rewards.md)
+- [BSC node fails to boot with PBSS snapshot](./bsc-node-fails-to-boot-with-pbss-snapshot.md)
+- [What is the BNB Chain ecosystem?](./what-is-the-bnb-chain-ecosystem.md)
+- [reth-bsc db migrate-v2 fails with --datadir](./reth-bsc-db-migrate-v2-fails-with-datadir.md)
+- [How do I claim BNB staking rewards?](./how-do-i-claim-bnb-staking-rewards.md)
 
-=== "opBNB"
+## opBNB
 
-    - [Why does my opBNB deposit take longer than expected?](./why-does-my-opbnb-deposit-take-longer-than-expected.md)
+- [Why does my opBNB deposit take longer than expected?](./why-does-my-opbnb-deposit-take-longer-than-expected.md)
 
-=== "Greenfield"
+## Greenfield
 
-    - [How to store large files on BNB Greenfield?](./how-to-store-large-files-on-bnb-greenfield.md)
+- [How to store large files on BNB Greenfield?](./how-to-store-large-files-on-bnb-greenfield.md)

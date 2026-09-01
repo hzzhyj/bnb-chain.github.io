@@ -328,6 +328,23 @@ nav:
           - Merkle Proof Verification: ./bc-fusion/post-fusion/merkle-tree-verify.md
           - Token Recovery: ./bc-fusion/post-fusion/token-recovery.md
           - FAQ: ./bc-fusion/post-fusion/faq.md
+  # >>> SuperIntern FAQ nav (generated — edits are overwritten) >>>
+  - "FAQ":
+      - "FAQ": ./faq/index.md
+      - "By Product":
+          - "BSC":
+              - "All BSC FAQs": ./faq/bsc/index.md
+              - "BSC node fails to boot with PBSS snapshot": ./faq/bsc-node-fails-to-boot-with-pbss-snapshot.md
+              - "What is the BNB Chain ecosystem?": ./faq/what-is-the-bnb-chain-ecosystem.md
+              - "reth-bsc db migrate-v2 fails with --datadir": ./faq/reth-bsc-db-migrate-v2-fails-with-datadir.md
+              - "How do I claim BNB staking rewards?": ./faq/how-do-i-claim-bnb-staking-rewards.md
+          - "opBNB":
+              - "All opBNB FAQs": ./faq/opbnb/index.md
+              - "Why does my opBNB deposit take longer than expected?": ./faq/why-does-my-opbnb-deposit-take-longer-than-expected.md
+          - "Greenfield":
+              - "All Greenfield FAQs": ./faq/greenfield/index.md
+              - "How to store large files on BNB Greenfield?": ./faq/how-to-store-large-files-on-bnb-greenfield.md
+  # <<< SuperIntern FAQ nav <<<
 
 markdown_extensions:
   - toc:
