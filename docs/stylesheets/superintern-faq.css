@@ -1,0 +1,23 @@
+/* SuperIntern FAQ sidebar (generated — edits are overwritten)
+   Material's navigation.sections draws the product sections under the
+   FAQ tab as always-open headings. The toggle is still in the markup;
+   these rules bring it back for the tab's own sections — the ones whose
+   page lives under /faq/ — and leave the rest of the site alone. */
+.md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section:has(> .md-nav__container > a[href*="/faq/"]:not([href$="/faq/"])) > .md-nav {
+  display: none;
+}
+.md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section:has(> .md-nav__container > a[href*="/faq/"]:not([href$="/faq/"])) > .md-nav__toggle:checked ~ .md-nav {
+  display: block;
+}
+.md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section:has(> .md-nav__container > a[href*="/faq/"]:not([href$="/faq/"])) > .md-nav__container > .md-nav__link {
+  font-weight: 400;
+  cursor: pointer;
+}
+.md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section:has(> .md-nav__container > a[href*="/faq/"]:not([href$="/faq/"])) > .md-nav__container > label.md-nav__link {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0;
+}
+.md-nav[data-md-level="1"] > .md-nav__list > .md-nav__item--section:has(> .md-nav__container > a[href*="/faq/"]:not([href$="/faq/"])) > .md-nav__container > label.md-nav__link .md-nav__icon {
+  display: inline-block;
+}
