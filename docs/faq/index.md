@@ -9,13 +9,8 @@ title: "Frequently Asked Questions"
 ## BSC
 
 - [Conflicting Finalization Vulnerability in BSC Validator Set Activation](./conflicting-finalization-vulnerability-in-bsc-validator-set-activation.md)
-- [What is the BNB Chain ecosystem?](./what-is-the-bnb-chain-ecosystem.md)
 - [How do I run a BSC full node?](./how-do-i-run-a-bsc-full-node.md)
 - [Why is my BSC transaction stuck at pending?](./why-is-my-bsc-transaction-stuck-at-pending.md)
-
-## opBNB
-
-- [How do I bridge assets to opBNB?](./how-do-i-bridge-assets-to-opbnb.md)
 
 ## Greenfield
 
