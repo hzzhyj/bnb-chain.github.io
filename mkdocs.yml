@@ -712,6 +712,7 @@ extra_javascript:
   - assets/js/custom.js
   - assets/js/superintern.js
   - assets/js/footer-menu-v2.js
+  - javascripts/superintern-roadmap.js
 
 extra:
   generator: false

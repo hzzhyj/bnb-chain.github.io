@@ -1,0 +1,5 @@
+# SuperIntern keeps this file up to date automatically - edits are overwritten by the next announcements sync.
+nav:
+  - index.md
+  - "Roadmap & Releases": roadmap.md
+  - ...
