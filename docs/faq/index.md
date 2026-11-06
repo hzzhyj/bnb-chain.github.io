@@ -1,10 +1,18 @@
 ---
-title: FAQ
+title: "Frequently Asked Questions"
 ---
 
-# FAQ
+<!-- SuperIntern keeps this page up to date automatically. To change a FAQ, edit it in the SuperIntern review queue — edits made directly to this file are replaced on the next update. -->
 
-Support FAQs for BNB Chain, grouped by network.
+# Frequently Asked Questions
 
-- [BNB Smart Chain](./bsc/index.md)
-- [opBNB](./opbnb/index.md)
+## BSC
+
+- [Conflicting Finalization Vulnerability in BSC Validator Set Activation](./conflicting-finalization-vulnerability-in-bsc-validator-set-activation.md)
+- [How do I run a BSC full node?](./how-do-i-run-a-bsc-full-node.md)
+- [Why is my BSC transaction stuck at pending?](./why-is-my-bsc-transaction-stuck-at-pending.md)
+
+## Greenfield
+
+- [How is data stored on BNB Greenfield?](./how-is-data-stored-on-bnb-greenfield.md)
+- [How can I get a webhook notification when the weekly report lands?](./how-can-i-get-a-webhook-notification-when-the-weekly-report-lands.md)
