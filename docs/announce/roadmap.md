@@ -8,16 +8,11 @@ title: "Release & Hardfork Roadmap"
 
 The next upgrade, the current mandatory version and the release history per client — compiled automatically from approved announcements. The [Announcements](./index.md) feed carries the original notices.
 
-> **Next upgrade — BSC v1.8.0 (mandatory)**
-> Mainnet activation **2026-12-10 02:30 UTC** · <span data-si-countdown="2026-12-10T02:30:00+00:00"></span>
-> [Details](./turing-upgrade-of-bsc-v180.md)
-
 ## BSC
 
 | Version | Type | Mandatory | Mainnet activation | Status | Links |
 |---|---|---|---|---|---|
-| v1.8.0 | Hardfork | Yes | 2026-12-10 02:30 UTC · <span data-si-countdown="2026-12-10T02:30:00+00:00"></span> | Upcoming | [Details](./turing-upgrade-of-bsc-v180.md) · [Release notes](https://github.com/bnb-chain/bsc/releases/tag/v1.8.0) |
-| v1.7.7 | Hardfork | Yes | 2026-08-25 02:30 UTC | Superseded | [Announcement](./pasteur-bsc.md) · [Release notes](https://github.com/bnb-chain/bsc/releases/tag/v1.7.7) |
+| v1.7.7 | Hardfork | Yes | 2026-08-25 02:30 UTC | Current | [Announcement](./pasteur-bsc.md) · [Release notes](https://github.com/bnb-chain/bsc/releases/tag/v1.7.7) |
 | Mendel Upgrade of BSC | Hardfork | Yes | 2026-04-28 02:30 UTC | Superseded | [Announcement](./mendel-bsc.md) |
 | v1.6.2 | Hardfork | Yes | 2026-01-14 02:30 UTC | Superseded | [Announcement](./fermi-bsc.md) · [Release notes](https://github.com/bnb-chain/bsc/releases/tag/v1.6.2) |
 | v1.5.13 | Hardfork | Yes | 2025-06-30 02:30 UTC | Superseded | [Announcement](./maxwell-bsc.md) · [Release notes](https://github.com/bnb-chain/bsc/releases/tag/v1.5.13) |
